@@ -73,7 +73,7 @@ SELECT * FROM articles;
    ```
 2. Connect to your GitHub repository:
    ```sh
-   git remote add origin <your-repo-url>
+   git remote add origin https://github.com/chadvik88/sports_news_scraper.git
    ```
 3. Push your code:
    ```sh
