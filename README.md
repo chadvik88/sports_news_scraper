@@ -1,4 +1,3 @@
-# sports_news_scraper
 # Sports News Scraper
 
 ## Overview
