@@ -12,7 +12,7 @@ This project fetches sports news articles from multiple RSS feeds (ESPN, Yahoo S
 ### Installation Steps
 1. Clone the repository:
    ```sh
-   git clone <your-repo-link>
+   git clone https://github.com/chadvik88/sports_news_scraper.git
    cd sports-news-scraper
    ```
 2. Install dependencies:
@@ -79,6 +79,3 @@ SELECT * FROM articles;
    ```sh
    git push -u origin main
    ```
-
-Once done, share the GitHub repository link to access the project. 🚀
-
