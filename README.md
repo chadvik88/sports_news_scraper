@@ -1,4 +1,3 @@
-HEAD
 # Sports News Scraper
 
 ## Overview
